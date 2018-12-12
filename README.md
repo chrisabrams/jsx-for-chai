@@ -2,9 +2,6 @@
 
 Fork of [jsx-chai](https://github.com/bkonkle/jsx-chai)
 
-It uses [algolia/react-element-to-jsx-string][react-element-to-jsx-string] in
-the background to turn React elements into formatted strings.
-
 ## Installation
 
 Then install *jsx-chai*:
