@@ -1,6 +1,5 @@
-/* eslint-disable react/no-multi-comp */
-import chai, {AssertionError, expect} from 'chai'
-import jsxChai from '../src/jsx-chai'
+import chai, { AssertionError, expect } from 'chai'
+import jsxChai from '../../dist/jsx-chai'
 import React from 'react'
 
 chai.use(jsxChai)

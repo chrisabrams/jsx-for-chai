@@ -1,4 +1,9 @@
 {
-  "presets": ["es2015-loose", "react"],
-  "plugins": ["transform-class-properties"]
+  "presets": [
+    "@babel/preset-typescript"
+  ],
+  "plugins": [
+    "@babel/proposal-class-properties",
+    "@babel/proposal-object-rest-spread"
+  ]
 }
